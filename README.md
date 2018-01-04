@@ -1,1 +1,1 @@
-My Machine Learning Jupyter Notebook files inspired by CristiVlad25 Documentation of Github 
+My Machine Learning Jupyter Notebook files inspired by CristiVlad25 materials on Github 
